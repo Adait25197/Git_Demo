@@ -1,1 +1,1 @@
-print("This is the Firsy commit")
+print("This is the First commit")
